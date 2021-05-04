@@ -16,4 +16,4 @@ This Algorithim uses the False Position method to estimate the root of any given
  - The total number of iterations used
  
  ## Limitations 
- - Upper and lower guess can't can't be the same sign (Positive or negative)
+ - Upper and lower guess can't can't be the same sign (positive or negative)
