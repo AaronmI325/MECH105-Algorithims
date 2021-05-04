@@ -2,8 +2,8 @@
 
 This algorithim converts any base 10 number to it's respective binary/base-2 number.
 
-Inputs:
+##Inputs:
 -Any Base 10 number
 
-Outputs:
+##Outputs:
 -Respective Base 2 number
