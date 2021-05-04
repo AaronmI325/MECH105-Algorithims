@@ -1,5 +1,5 @@
 # False Position Method
-This Algorithim uses the False Position method to estimate the root of any given function. All that's needed to estimate the root is the function and the bounds around where the root is located. If wanted, you can specify how accurate you want the root estimate to be by including a disired relative error and a desired max amount of iterations. 
+This algorithim uses the False Position method to estimate the root of any given function. All that's needed to estimate the root is the function and the bounds around where the root is located. If wanted, you can specify how accurate you want the root estimate to be by including a disired relative error and a desired max amount of iterations. 
 
 ## Inputs:
 - The function being evaluated
