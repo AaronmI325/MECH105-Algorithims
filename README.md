@@ -1,4 +1,4 @@
-# MECH105-Algorithims
+# MECH105-Algorithms
 These are all the algorithms I created for MECH105 which are different numerical methods
 
 - Base 10 to Binary converter
