@@ -7,3 +7,6 @@ This algorithim converts any base 10 number to it's respective binary/base-2 num
 
 ## Outputs:
 - Respective Base 2 number
+
+## Limitations:
+-None
