@@ -10,4 +10,4 @@ This algorithim uses the Simpson's 1/3 rule to evaluate the integral of mutiple 
 
 ## Limitations:
 - Dependent values must be equally spaced
-- X and Y must ahve the same amount of values
+- X and Y must have the same amount of values
